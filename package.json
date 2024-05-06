@@ -1,0 +1,10 @@
+{
+  "name": "com.hungnt.rainbowfolder",
+  "version": "1.0.0",
+  "displayName": "HungNT: Rainbow Folder",
+  "unity": "2022.1",
+  "author": {
+    "name": "Nguyen Tien Hung",
+    "email": "ngtienhungg.work@gmail.com"
+  }
+}
